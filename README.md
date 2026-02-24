@@ -1,34 +1,18 @@
-<h1 align="center">Hi, I'm Mariana 🌷</h1>
-<p align="center">Computer Science student who loves clean code & cute aesthetics </p>
+<div align="center">
+  
+### Hello! I am Mariana 🌷
 
-<div style="background-color: #F2A7A7; padding: 20px; border-radius: 15px;">
-
-<h2>Hello! I am Mariana 🌷</h2>
-
-<pre>
-class Mariana {
-    String course = "Computer Science";
-    int periodo = 3;
-
-    boolean BackEnd = true;
-    boolean ComputerNetwork = true;
-
-    String[] linguagensFavoritas = {
-        "Java", "C"
-    };
-}
-</pre>
 </div>
 
-<div style="background-color:#F2A7A7; padding:20px; border-radius:15px; font-family:monospace;">
+<div style="background-color:#F2A7A7; padding:20px; border-radius:15px;">
 
-$ whoami  
-> Mariana Temporim  
+class Mariana {  
+&nbsp;&nbsp;&nbsp;&nbsp;String course = "Computer Science";  
+&nbsp;&nbsp;&nbsp;&nbsp;int period = 3;  
 
-$ major  
-> Computer Science  
+&nbsp;&nbsp;&nbsp;&nbsp;boolean likesBackend = true;  
+&nbsp;&nbsp;&nbsp;&nbsp;boolean likesComputerNetworks = true;  
 
-$ skills  
-> C | C++ | Java | Python  
+}
 
 </div>
