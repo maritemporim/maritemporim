@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FD9494&width=435&lines=Hello+World,+I'm+Mariana!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FD9494&width=435&lines=Hello+World,+I'm+Mariana!" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
