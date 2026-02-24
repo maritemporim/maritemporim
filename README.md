@@ -41,8 +41,6 @@ I love building projects that are functional, creative, and meaningful.
   - Cybersecurity
   - Competitive programming
 
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maritemporim/maritemporim/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maritemporim/maritemporim/output/github-contribution-grid-snake.svg">
