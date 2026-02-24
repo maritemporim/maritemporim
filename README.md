@@ -1,12 +1,5 @@
 <h1 align="center">Hi, I'm Mariana 🌷</h1>
-<p align="center">Computer Science student who loves clean code & cute aesthetics 💻✨</p>
-
----
-
-### 🌱 Currently learning
-- C & C++
-- Data Structures
-- Web Development
+<p align="center">Computer Science student who loves clean code & cute aesthetics </p>
 
 <div style="background-color: #F2A7A7; padding: 20px; border-radius: 15px;">
 
@@ -14,16 +7,28 @@
 
 <pre>
 class Mariana {
-    String curso = "Ciência da Computação";
+    String course = "Computer Science";
     int periodo = 3;
 
-    boolean gostaDeBackend = true;
-    boolean praticaProgCompetitiva = true;
+    boolean BackEnd = true;
+    boolean ComputerNetwork = true;
 
     String[] linguagensFavoritas = {
-        "C", "C++", "Java", "Python"
+        "Java", "C"
     };
 }
 </pre>
+</div>
+
+<div style="background-color:#F2A7A7; padding:20px; border-radius:15px; font-family:monospace;">
+
+$ whoami  
+> Mariana Temporim  
+
+$ major  
+> Computer Science  
+
+$ skills  
+> C | C++ | Java | Python  
 
 </div>
