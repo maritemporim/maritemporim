@@ -1,18 +1,16 @@
-<div align="center">
-  
-### Hello! I am Mariana 🌷
+<h3 align="center"><b>Hello World, I'm Mariana! </b></h1>
+<!--  -->
+<img align="right" width=300px alt="Unicorn" src="https://github.com/user-attachments/assets/fb143b7c-b163-45ec-852a-6fd1b63fbc28"/>
 
-</div>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-<div style="background-color:#F2A7A7; padding:20px; border-radius:15px;">
+I am a Computer Science student currently building a strong foundation in computer science and software development.
+I enjoy diving deep into logic, problem-solving, and understanding how things work behind the scenes. I am constantly expanding my knowledge in algorithms, data structures, databases, and backend development.
+I love building projects that are functional, creative, and meaningful.
 
-class Mariana {  
-&nbsp;&nbsp;&nbsp;&nbsp;String course = "Computer Science";  
-&nbsp;&nbsp;&nbsp;&nbsp;int period = 3;  
-
-&nbsp;&nbsp;&nbsp;&nbsp;boolean likesBackend = true;  
-&nbsp;&nbsp;&nbsp;&nbsp;boolean likesComputerNetworks = true;  
-
-}
-
-</div>
+- 🌱 I’m currently learning..
+  - Advanced Java concepts
+  - Databases
+  - Data Structures and Algorithms
+  - Cybersecurity
+  - Competitive programming
