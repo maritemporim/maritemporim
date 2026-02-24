@@ -1,8 +1,32 @@
-<h3 align="center"><b>Hello World, I'm Mariana! </b></h1>
-<!--  -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FD9494&width=435&lines=Hello+World,+I'm+Mariana!)](https://git.io/typing-svg)
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+</div>
+
 <img align="right" width=300px alt="Unicorn" src="https://github.com/user-attachments/assets/fb143b7c-b163-45ec-852a-6fd1b63fbc28"/>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**About Me**
 
 I am a Computer Science student currently building a strong foundation in computer science and software development.
 I enjoy diving deep into logic, problem-solving, and understanding how things work behind the scenes.
@@ -10,11 +34,20 @@ I enjoy diving deep into logic, problem-solving, and understanding how things wo
 I am constantly expanding my knowledge in algorithms, data structures, databases, and backend development.
 I love building projects that are functional, creative, and meaningful.
 
-
-
-- 🌱 I’m currently learning ...
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**I’m currently learning ...**
   - Advanced Java concepts
   - Databases
   - Data Structures and Algorithms
   - Cybersecurity
   - Competitive programming
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maritemporim/maritemporim/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maritemporim/maritemporim/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maritemporim/maritemporim/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
