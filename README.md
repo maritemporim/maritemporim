@@ -8,12 +8,22 @@
 - Data Structures
 - Web Development
 
-### 🎀 About me
-- 💜 CS student
-- 🧠 Interested in cybersecurity & problem solving
-- ☕ Powered by coffee and curiosity
+<div style="background-color: #F2A7A7; padding: 20px; border-radius: 15px;">
 
----
+<h2>Hello! I am Mariana 🌷</h2>
 
-### 📊 Stats
-![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=maritemporim&show_icons=true&theme=radical)
+<pre>
+class Mariana {
+    String curso = "Ciência da Computação";
+    int periodo = 3;
+
+    boolean gostaDeBackend = true;
+    boolean praticaProgCompetitiva = true;
+
+    String[] linguagensFavoritas = {
+        "C", "C++", "Java", "Python"
+    };
+}
+</pre>
+
+</div>
