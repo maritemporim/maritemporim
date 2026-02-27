@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
 
-<img align="right" width=300px alt="Unicorn" src="https://github.com/user-attachments/assets/fb143b7c-b163-45ec-852a-6fd1b63fbc28"/>
+<img align="right" width="300px" alt="jungkook" src="ponot.png"/>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**About Me**
 
@@ -38,7 +38,8 @@ I enjoy diving deep into logic, problem-solving, and understanding how things wo
 I am constantly expanding my knowledge in algorithms, data structures, databases, and backend development.
 I love building projects that are functional, creative, and meaningful.
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWc5Z2FwMGM5aXV4OTRpbGd5ODdrMTZsZ29mN3pnNWRybG1hem4ybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vahbJZAWxVdrKgzxnD/giphy.gif" width="30px">&nbsp;**I’m currently learning ...**
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**I’m currently learning ...**
+
   - Advanced Java concepts
   - Databases
   - Data Structures and Algorithms
